@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SushilJangra
+- 👋 Hi, I’m Sushil Jangra
 - 👀 I’m interested in Android Development and UI/UX designing
 - 🌱 I’m currently learning Kotlin for android development
 - 📫 How to reach me -><br>
